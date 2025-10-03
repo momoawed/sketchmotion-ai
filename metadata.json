@@ -1,0 +1,5 @@
+{
+  "name": "SketchMotion AI",
+  "description": "An application to convert architectural sketches into photorealistic scenes and animations using AI. Upload a sketch, describe your vision, and let SketchMotion AI bring it to life.",
+  "requestFramePermissions": []
+}
